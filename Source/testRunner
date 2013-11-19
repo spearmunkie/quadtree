@@ -1,0 +1,2 @@
+g++ CDebug.h test.cpp CMath.h CMath.cpp -o blah
+./blah
